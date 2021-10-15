@@ -1,0 +1,10 @@
+Package: traitdiv
+Type: Package
+Title: Compute trait diversity indexes
+Version: 0.1.0
+Author: Jean-Olivier Irisson
+Maintainer: Jean-Olivier Irisson <irisson@normalesup.org>
+Description: Compute trait diversity indexes.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
